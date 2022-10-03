@@ -1,0 +1,1 @@
+const places = ['Makkah', 'Madina', 'Lahore', 'Azad Kashmir', 'New York']
